@@ -17,4 +17,18 @@ Aprender lógica de programação com Python;
 Entender o funcionamento do if, for e while;
 Praticar estruturas de repetição;
 Utilizar IA como ferramenta de aprendizagem ativa;
-Criar um material reutilizável para revisões fu
+Criar um material reutilizável para revisões futuras.
+
+📚 Curadoria de Fontes
+
+As seguintes fontes foram utilizadas como apoio nos estudos e no NotebookLM:
+
+Documentação Oficial Python
+https://docs.python.org/3/tutorial/
+W3Schools Python
+https://www.w3schools.com/python/
+Curso em Vídeo — Python
+https://www.cursoemvideo.com/
+Plataforma DIO
+https://www.dio.me/
+Material de exercícios e anotações pessoais em PDF.
